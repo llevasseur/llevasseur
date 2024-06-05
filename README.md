@@ -3,7 +3,7 @@
 ### About Me
 A passionate hockey fan 🏒 and web developer 💻
 
-- 🔭 I’m currently working on a Mario Kart 🏎️ Map Draft 🏁
+- 🔭 I’m currently working on a Mario Kart 🏎️ Map Drafter 🏁
 - 🌱 I’m currently learning Git Flow
 - 👯 I’m looking to collaborate on AI projects
 - 🤔 I’m looking for help with Cybersecurity
