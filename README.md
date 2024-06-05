@@ -10,3 +10,5 @@ A passionate hockey fan 🏒 and web developer 💻
 - 💬 Ask me about NHL news and statistics
 - 📫 How to reach me: llevasseur@brainstation.io
 - 😄 Pronouns: He/Him
+
+![](https://komarev.com/ghpvc/?username=llevasseur)
