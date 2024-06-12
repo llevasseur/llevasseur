@@ -4,7 +4,7 @@
 A passionate hockey fan 🏒 and web developer 💻
 
 - 🔭 I’m currently working on a Mario Kart 🏎️ Map Drafter 🏁
-- 🌱 I’m currently learning [Framer Motion](https://www.framer.com/motion/)
+- 🌱 I’m currently learning [Framer Motion]([https://www.framer.com/motion/](https://github.com/llevasseur/framer-motion))
 - 👯 I’m looking to collaborate on AI projects
 - 🤔 I’m looking for help with Cybersecurity
 - 💬 Ask me about NHL news and statistics
