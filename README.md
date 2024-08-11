@@ -3,7 +3,7 @@
 ### About Me
 A passionate hockey fan 🏒 and web developer 💻
 
-- 🔭 I’m currently working on a Mario Kart 🏎️ Map Drafter 🏁
+- 🔭 I’m currently working on my [World Junior Fantasy Website](https://github.com/llevasseur/wjc-fantasy)
 - 🌱 I’m currently learning [Framer Motion](https://github.com/llevasseur/framer-motion)
 - 👯 I’m looking to collaborate on AI projects
 - 🤔 I’m looking for help with Cybersecurity
