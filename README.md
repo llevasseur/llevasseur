@@ -4,7 +4,7 @@
 A passionate hockey fan 🏒 and web developer 💻
 
 - 🔭 I’m currently working on my [World Junior Fantasy Website](https://github.com/llevasseur/wjc-fantasy)
-- 🌱 I’m currently learning [Framer Motion](https://github.com/llevasseur/framer-motion)
+- 🌱 I’m currently learning [JWTs](https://github.com/llevasseur/jwt-101)
 - 👯 I’m looking to collaborate on AI projects
 - 🤔 I’m looking for help with Cybersecurity
 - 💬 Ask me about NHL news and statistics
